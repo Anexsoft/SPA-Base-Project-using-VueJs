@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
+
 import Default from '@/components/Default'
 import ExampleIndex from '@/components/example/Index'
 import ExampleView from '@/components/example/View'
